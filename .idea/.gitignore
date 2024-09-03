@@ -1,0 +1,79 @@
+# Ignore the directory for IDEs and editors
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Node.js dependencies
+/node_modules/
+/npm-debug.log*
+/yarn-error.log*
+/yarn.lock
+
+# Logs
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build and production artifacts
+/dist/
+/build/
+/out/
+
+# Dependency directories
+/node_modules/
+/.pnp/
+/.pnp.js
+
+# Typescript cache
+/*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# IDE specific files (like JetBrains and Visual Studio Code)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript compile output
+/dist/
+/build/
+/lib/
+
+# Coverage directory used by tools like istanbul
+coverage/
